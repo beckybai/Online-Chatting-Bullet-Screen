@@ -1,7 +1,7 @@
 # Online-Chatting-Bullet-Screen
 A java project for meeting the demand of Student Festival's online chatting as well as bullet screen. We implement these functions: Users can send message to the screen and chat room at the same time. The words sent are examined automatically and artifically. There also exists lottery games during this process.
 
-# A brief introduction to the code in ~/src/
+## A brief introduction to the code in ~/src/
 
 1.	Server & Client: Control three different terminal: 
 
@@ -17,7 +17,7 @@ A java project for meeting the demand of Student Festival's online chatting as w
 
 4.	roll: control the bullet screen.
 
-# Contributors: 
+## Contributors: 
 
 Gefei Zhang : Part 4
 
